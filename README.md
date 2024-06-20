@@ -1,4 +1,4 @@
-# :sleeping: Drowsiness Detection Using TensorFlow MobileNetV2  [![Tesorflow](https://skillicons.dev/icons?i=tensorflow)](https://skillicons.dev)
+# :sleeping: Drowsiness Detection Using TensorFlow MobileNetV2 [![Tesorflow](https://skillicons.dev/icons?i=tensorflow)](https://skillicons.dev)
 
 ## Overview
 This project leverages TensorFlow's MobileNetV2 architecture to develop a drowsiness detection system. The model is designed to identify signs of driver drowsiness, such as closed eyes, yawning, and head movements, using a custom dataset. The aim is to enhance driver safety by providing timely alerts when drowsiness is detected.
